@@ -26,3 +26,9 @@ n == nums.length
 1 <= n <= 104
 0 <= nums[i] <= n
 All the numbers of nums are unique.
+
+
+# Approach and Understanding
+
+I know that to find the missing number, I can simply find out the natural sum of all the numbers and from that subtract the sum of the numbers present in the array.
+This difference will result in the missing number.
